@@ -1,5 +1,4 @@
-#1.Write a program which contains one function named as Display() 
-# that prints "Jay Ganesh" on console.
+#1.Write a program which contains one function named as Display() that prints "Jay Ganesh" on console.
 
 def Display():
     print("Jay Ganesh..")
